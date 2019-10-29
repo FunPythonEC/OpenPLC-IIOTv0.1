@@ -10,3 +10,4 @@ El proyecto se desarrolla en tres etapas.
 3. Taller de diseño y desarrollo de interface para el control del uPLC32, Enero del 2020
 
 
+Guayaquil - Ecuador 
