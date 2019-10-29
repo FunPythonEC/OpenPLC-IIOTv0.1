@@ -1,6 +1,6 @@
 # uPLC32
 
-## Construyendo un controlador lògico programable basado en el dispositivo iot ESP32 y Micropython. 
+## Construyendo un controlador lógico programable basado en el dispositivo iot ESP32 y Micropython. 
 
 ## Proyecto Hardware & Software Libre
 Buscamos crear una plataforma de hardware libre para la industria basado es un ESP32 y MicroPython. 
