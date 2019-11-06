@@ -28,11 +28,7 @@ El proyecto se desarrolla en cuatro talleres.
 
 4.- Desarrollo del Entotno de programación para el PLC32, basado en bloques " Drag-and-Drop ", Por definir instructor
 
-Coordinador de la Iniciativa
-
-José Luis Laica Cornejo
-
-Funpython Comunidad
+El Coordinador de la Iniciativa es José Luis Laica Cornejo, miembro de la comunidad Funpython en colaboración con la rama estudiantil-espol IEEE y su capítulo IAS 
 
 
 Guayaquil - Ecuador 
