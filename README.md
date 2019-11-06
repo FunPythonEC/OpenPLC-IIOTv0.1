@@ -12,7 +12,7 @@ Integrar a estudiantes, profesionales y personas a fines a la tecnologia mediant
 
 La comunidad en forma indivudual o asociada, pueda mejorar y modificar estos proyectos para que puedan ser ofertados de manera local con la calidad que la insdustra requiere. 
 
-## A cerca del PROYECTO
+## Acerca del PROYECTO
 Vamos a construir de manera guiada mediante y con tus ganas de desarrollar, en un conjunto de cuatro talleres un Controlador Lógico Programable y su entorno de programación. 
 
 ## Construyendo un controlador lógico programable basado en el dispositivo iot ESP32 y Micropython. 
