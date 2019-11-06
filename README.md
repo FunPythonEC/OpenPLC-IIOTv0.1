@@ -23,7 +23,7 @@ El proyecto se desarrolla en cuatro talleres.
 
 1.- Taller de diseño electrónico para elaboración del esquematico y PCB del Controlador Lógico Programable PLC32, Instructor José Laica, Lugar ESPOL, Dias 21 y 22 de Nov. del 2019.
 
-2.- Taller de montaje PCB y programacion del firmware en MicroPython, Instructor José Laica, Lugar ESPOL, Dias 10 y 11 de Dic. del 2019
+2.- Taller de montaje PCB y programacion del firmware en MicroPython, Instructor José Laica, Lugar ESPOL.
 
 3.- Taller de modelado 3D para diseño de "carcasa" a partir de una PCB con Freecad, Instructor Tayuapanta, Enero 2020
 
