@@ -9,7 +9,7 @@ Buscamos incentivar a la comunidad tecnológica al desarrollo colaborativo de nu
 
 ### Objetivos a corto plazo.-
 
-Integrar a estudiantes, profesionales y personas a fines a la tecnologia mediante el desarrollo de proyectos en forma colaborativa para que puedad intercambiar conocimientos y aprender conjuntamente. 
+Integrar a estudiantes, profesionales y personas a fines a la tecnologia mediante el desarrollo de proyectos en forma colaborativa, para que puedan intercambiar conocimientos, aprender y desarrollar conjuntamente. 
 
 ### Objetivos a largo plazo.-
 
