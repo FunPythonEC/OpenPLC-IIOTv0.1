@@ -4,10 +4,12 @@
 
 Buscamos incentivar a la comunidad tecnologica al desarrollo colaborativo de nuevas plataformas. 
 
-Objetivos a corto plazo.-
+### Objetivos a corto plazo.-
+
 Integrar a estudiantes, profesionales y personas a fines a la tecnologia mediante el desarrollo de proyectos en forma colaborativa para que puedad intercambiar conocimientos y aprender conjuntamente. 
 
-Objetivos a largo plazo.-
+###Objetivos a largo plazo.-
+
 La comunidad en forma indivudual o asociada, pueda mejorar y modificar estos proyectos para que puedan ser ofertados de manera local con la calidad que la insdustra requiere. 
 
 ## A cerca del PROYECTO
