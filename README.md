@@ -24,9 +24,9 @@ El proyecto se desarrolla en cuatro talleres.
 
 2.- Taller de montaje PCB y programacion del firmware en MicroPython los dias 10 y 11 de Dic. del 2019,FIEC - ESPOL
 
-3.- Taller de modelado 3D a partir de una PCB con Freecad
+3.- Taller de modelado 3D para diseño de "carcasa" a partir de una PCB con Freecad, Ing. Jhonayhan Paillacho/ Tayuapanta
 
-4.- Desarrollo del Entotno de programación para el PLC32, basado en bloques " Drag-and-Drop "
+4.- Desarrollo del Entotno de programación para el PLC32, basado en bloques " Drag-and-Drop ", Por definir instructor
 
 Coordinador de la Iniciativa
 José Luis Laica Cornejo
