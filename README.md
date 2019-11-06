@@ -25,9 +25,9 @@ El proyecto se desarrolla en cuatro talleres.
 
 2.- Taller de montaje PCB y programacion del firmware en MicroPython, Instructor José Laica, Lugar ESPOL, Dias 10 y 11 de Dic. del 2019
 
-3.- Taller de modelado 3D para diseño de "carcasa" a partir de una PCB con Freecad, Instructor Tayuapanta
+3.- Taller de modelado 3D para diseño de "carcasa" a partir de una PCB con Freecad, Instructor Tayuapanta, Enero 2020
 
-4.- Desarrollo del entorno de programación para el PLC32, basado en bloques " Drag-and-Drop ", Por definir instructor
+4.- Desarrollo del entorno de programación para el PLC32, basado en bloques " Drag-and-Drop ", Por definir instructor, Enero 2020
 
 El Coordinador de la iniciativa es José Luis Laica Cornejo, miembro de la comunidad Funpython y los talleres se desarrollarán en colaboración con la rama estudiantil-espol IEEE y su capítulo IAS.
 
