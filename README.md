@@ -1,7 +1,7 @@
 # PLC32
 
 ## Acerca del PROYECTO
-Vamos a construir de manera guiada mediante y con tus ganas de desarrollar, en un conjunto de cuatro talleres un Controlador Lógico Programable y su entorno de programación. 
+Vamos a construir de manera guiada en un conjunto de cuatro talleres un Controlador Lógico Programable y su entorno de programación. 
 
 ## Una iniciativa de Hardware & Software Libre
 
