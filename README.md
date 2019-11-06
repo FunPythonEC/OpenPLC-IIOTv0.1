@@ -3,6 +3,9 @@
 ## Acerca del PROYECTO
 Vamos a construir de manera guiada en un conjunto de cuatro talleres un Controlador Lógico Programable y su entorno de programación. 
 
+## ¿ Qué es un PLC ( Programmable Logic Controller ) ?
+“Instrumento electrónico, que utiliza memoria programable para guardar ins trucciones  sobre  la  implementación  de  determinadas  funciones,  como operaciones  lógicas,  secuencias  de  acciones,  especificaciones  temporales,  contadores y cálculos para el control mediante módulos de E/S analógicos o digitales sobre diferentes tipos de máquinas y de procesos”
+
 ## Una iniciativa de Hardware & Software Libre
 
 Buscamos incentivar a la comunidad tecnológica al desarrollo colaborativo de nuevas plataformas. 
