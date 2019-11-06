@@ -32,5 +32,4 @@ Coordinador de la Iniciativa
 José Luis Laica Cornejo
 Funpython Comunidad
 
-
 Guayaquil - Ecuador 
