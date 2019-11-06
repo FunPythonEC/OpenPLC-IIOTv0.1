@@ -29,7 +29,10 @@ El proyecto se desarrolla en cuatro talleres.
 4.- Desarrollo del Entotno de programación para el PLC32, basado en bloques " Drag-and-Drop ", Por definir instructor
 
 Coordinador de la Iniciativa
+
 José Luis Laica Cornejo
+
 Funpython Comunidad
+
 
 Guayaquil - Ecuador 
