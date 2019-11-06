@@ -11,11 +11,9 @@ Objetivos a largo plazo.-
 La comunidad en forma indivudual o asociada, pueda mejorar y modificar estos proyectos para que puedan ser ofertados de manera local con la calidad que la insdustra requiere. 
 
 ## A cerca del PROYECTO
-Vamos a construir de manera guiada mediante un conjunti de 4 talleres un Controlador Lógico Programable y su entorno de programación. 
+Vamos a construir de manera guiada mediante un conjunto de 4 talleres un Controlador Lógico Programable y su entorno de programación. 
 
 ## Construyendo un controlador lógico programable basado en el dispositivo iot ESP32 y Micropython. 
-
-
 
 
 El proyecto se desarrolla en cuatro talleres. 
