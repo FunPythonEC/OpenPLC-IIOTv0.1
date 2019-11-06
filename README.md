@@ -29,11 +29,11 @@ Herramienta a usar: https://easyeda.com/es
 
 Conocimientos básicos: https://docs.micropython.org/en/latest/esp8266/tutorial/intro.html
 
-3.- Taller de modelado 3D para diseño de "carcasa" a partir de una PCB con Freecad, Instructor Tayuapanta, Lunes 6 de Enero 2020, 13:30 - 16:30
+3.- Taller de modelado 3D para diseño de "carcasa" a partir de una PCB con Freecad, Instructor Tayuapanta, Lunes 6 de Enero 2020, 13:30 - 16:30, lugar por definir.
 
 Herramienta a usar: https://www.freecadweb.org/
 
-4.- Desarrollo del entorno de programación para el PLC32, basado en bloques " Drag-and-Drop ", Por definir instructor, Enero 2020
+4.- Desarrollo del entorno de programación para el PLC32, basado en bloques " Drag-and-Drop ", Por definir instructor, lugar y hora, Enero 2020
 
 El Coordinador de la iniciativa es José Luis Laica Cornejo, miembro de la comunidad Funpython y los talleres se desarrollarán en colaboración con la rama estudiantil-espol IEEE y su capítulo IAS.
 
