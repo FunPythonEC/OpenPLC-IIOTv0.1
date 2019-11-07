@@ -1,9 +1,15 @@
 # PLC32
 
 ## Acerca del PROYECTO
-Los PLC se usan en la actualidad en todo tipo de aplicaciones industriales, resolviendo requerimientos en control de procesos y secuencias de la maquinaria, dentro del sector industrial 
+Los PLC (Programmable Logic Controller) se usan en la actualidad en todo tipo de aplicaciones industriales, resolviendo requerimientos en control de procesos y secuencias de la maquinaria, dentro del sector industrial en procesos y control de brazos robóticos industriales.
 
-Si revisamos a fondo encontraremos PLC’s desplazando a las costosas tarjetas en ascensores, escaleras mecánicas, hornos, dosificadoras, sistemas de bombeo, en cualquier automatismo en centros comerciales, hoteles, hasta en lavadoras, microondas,  expendedoras de alimentos y bebidas, la imaginación es el límite.
+## Caracteristicas del PLC
+
+- 2 Entradas de 24 voltios
+- 2 Salidas de 24 voltios
+- Comunicación RS485
+- Wifi
+- Protocolo Mqtt
 
 ## Una iniciativa de Hardware & Software Libre
 
