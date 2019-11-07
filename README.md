@@ -1,10 +1,9 @@
 # PLC32
 
 ## Acerca del PROYECTO
-Vamos a construir de manera guiada en un conjunto de cuatro talleres un Controlador Lógico Programable y su entorno de programación. 
+Los PLC se usan en la actualidad en todo tipo de aplicaciones industriales, resolviendo requerimientos en control de procesos y secuencias de la maquinaria, dentro del sector industrial 
 
-## ¿ Qué es un PLC ( Programmable Logic Controller ) ?
-“Instrumento electrónico, que utiliza memoria programable para guardar ins trucciones  sobre  la  implementación  de  determinadas  funciones,  como operaciones  lógicas,  secuencias  de  acciones,  especificaciones  temporales,  contadores y cálculos para el control mediante módulos de E/S analógicos o digitales sobre diferentes tipos de máquinas y de procesos” Definición NEMA
+Si revisamos a fondo encontraremos PLC’s desplazando a las costosas tarjetas en ascensores, escaleras mecánicas, hornos, dosificadoras, sistemas de bombeo, en cualquier automatismo en centros comerciales, hoteles, hasta en lavadoras, microondas,  expendedoras de alimentos y bebidas, la imaginación es el límite.
 
 ## Una iniciativa de Hardware & Software Libre
 
