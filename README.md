@@ -37,7 +37,7 @@ Herramienta a usar: https://easyeda.com/es
 
 Conocimientos básicos: https://docs.micropython.org/en/latest/esp8266/tutorial/intro.html
 
-3.- Taller de modelado 3D para diseño de "carcasa" a partir de una PCB con Freecad, Instructor Tayuapanta, Lunes 6 de Enero 2020, 13:30 - 16:30, lugar por definir.
+3.- Taller de modelado 3D para diseño de "carcasa" a partir de una PCB con Freecad, Instructor Tayuapanta, por definir lugar y hora.
 
 Herramienta a usar: https://www.freecadweb.org/
 
