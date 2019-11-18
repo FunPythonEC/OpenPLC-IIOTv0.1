@@ -46,6 +46,10 @@ Herramienta a usar: https://www.freecadweb.org/
 Link de regsitro:
 https://docs.google.com/forms/d/1LbraBkjJvSlXIhNFANR5K5PApKe0w38wVGZfAE7Q9ug/edit
 
+Contactos:
+Doris Reyes: 0989672037
+Carolina Herrera: 0939318425
+José Luis Laica: 0995474658
 
 El Coordinador de la iniciativa es José Luis Laica Cornejo, miembro de la comunidad Funpython y los talleres se desarrollarán en colaboración con la rama estudiantil-espol IEEE y su capítulo IAS.
 
