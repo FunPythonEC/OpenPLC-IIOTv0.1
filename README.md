@@ -49,7 +49,8 @@ Link de regsitro:
 
 https://docs.google.com/forms/d/1LbraBkjJvSlXIhNFANR5K5PApKe0w38wVGZfAE7Q9ug/edit
 
-Contactos:
+## Contactos:
+
 Doris Reyes: 0989672037
 
 Carolina Herrera: 0939318425
