@@ -58,8 +58,18 @@ Carolina Herrera: 0939318425
 José Luis Laica: 0995474658
 
 
-El Coordinador de la iniciativa es José Luis Laica Cornejo, miembro de la comunidad Funpython y los talleres se desarrollarán en colaboración con la rama estudiantil IEEE-ESPOL y su capítulo técnico IAS.
+El Coordinador de la iniciativa es José Luis Laica Cornejo, miembro de la comunidad Funpython y los talleres se desarrollarán en colaboración con la rama estudiantil IEEE-ESPOL y su capítulo técnico IAS, Doris Reyes y Carolina Herrera. 
 
+Comunidad Funpython:
 
+https://www.instagram.com/funpython/?hl=es-la
+
+IEEE - ESPOL: 
+
+https://www.instagram.com/ieee.espol/?hl=es-la
+
+Capitulo Técnico IAS - ESPOL
+
+https://www.instagram.com/ieee.espol.ias/?hl=es-la
 
 Guayaquil - Ecuador 
