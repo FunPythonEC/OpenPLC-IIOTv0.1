@@ -43,7 +43,12 @@ Herramienta a usar: https://www.freecadweb.org/
 
 4.- Desarrollo del entorno de programación para el PLC32, basado en bloques " Drag-and-Drop ", Por definir instructor, lugar y hora, Enero 2020
 
+Link de regsitro:
+https://docs.google.com/forms/d/1LbraBkjJvSlXIhNFANR5K5PApKe0w38wVGZfAE7Q9ug/edit
+
+
 El Coordinador de la iniciativa es José Luis Laica Cornejo, miembro de la comunidad Funpython y los talleres se desarrollarán en colaboración con la rama estudiantil-espol IEEE y su capítulo IAS.
+
 
 
 Guayaquil - Ecuador 
