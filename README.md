@@ -1,4 +1,4 @@
-# uPLC32
+# PLC32
 
 ## Construyendo un controlador lógico programable basado en el dispositivo iot ESP32 y Micropython. 
 
@@ -57,8 +57,7 @@ Herramienta a usar: https://www.freecadweb.org/
 
 Link de regsitro:
 
-https://docs.google.com/forms/d/1LbraBkjJvSlXIhNFANR5K5PApKe0w38wVGZfAE7Q9ug/edit
-
+https://docs.google.com/forms/d/e/1FAIpQLSdKHHjlvKSSVwDHgesz2nPQxdpG3-TAMdvfw-ti1jtBzHu5PQ/viewform?usp=sf_link
 ## Contactos:
 
 Doris Reyes: 0989672037
