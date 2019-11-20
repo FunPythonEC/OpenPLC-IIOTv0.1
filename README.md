@@ -33,7 +33,7 @@ El proyecto se desarrolla en cuatro talleres.
 
         Conocimientos básicos: https://docs.micropython.org/en/latest/esp8266/tutorial/intro.html
 
-3. Taller de modelado 3D para diseño de "carcasa" a partir de una PCB con Freecad, Instructor Tayuapanta, Lunes 6 de Enero 2020, 13:30 - 16:30, lugar por definir.
+3. Taller de modelado 3D para diseño de "carcasa" a partir de una PCB con Freecad, Instructor Christian Tayupanta, Lunes 6 de Enero 2020, 13:30 - 16:30, lugar por definir.
 
 
         Herramienta a usar: https://www.freecadweb.org/
