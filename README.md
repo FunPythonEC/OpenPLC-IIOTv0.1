@@ -11,7 +11,7 @@ Los PLC (Programmable Logic Controller) se usan en la actualidad en todo tipo de
 - 2 Entradas de 24 voltios
 - 2 Salidas de 24 voltios
 - Comunicación RS485
-- Wifi
+- WiFi
 - Protocolo Mqtt
 
 ### Objetivos a corto plazo.-
@@ -42,9 +42,8 @@ El proyecto se desarrolla en cuatro talleres.
 
 ## Registro
 
-Link de regsitro:
+[Para registrarte dale click aqui](https://docs.google.com/forms/d/e/1FAIpQLSdKHHjlvKSSVwDHgesz2nPQxdpG3-TAMdvfw-ti1jtBzHu5PQ/viewform)
 
-https://docs.google.com/forms/d/e/1FAIpQLSdKHHjlvKSSVwDHgesz2nPQxdpG3-TAMdvfw-ti1jtBzHu5PQ/viewform?usp=sf_link
 
 ## Contactos:
 
