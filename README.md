@@ -25,7 +25,7 @@ La comunidad en forma indivudual o asociada, pueda mejorar y modificar estos pro
 ## Talleres
 El proyecto se desarrollará en cuatro talleres. 
 
-1. Diseño electrónico para elaboración del esquematico y PCB del Controlador Lógico Programable PLC32 
+1. Diseño electrónico para elaboración del esquematico y PCB del Controlador Lógico Programable PLC32. 
    
         Instructor | Lugar | Fecha | Horario
         -----------|-------|-------|--------
@@ -42,7 +42,7 @@ El proyecto se desarrollará en cuatro talleres.
 
         Guia de referencia: https://docs.micropython.org/en/latest/esp32/tutorial/intro.html
 
-3. Modelado 3D para diseño de "carcasa" a partir de una PCB con Freecad
+3. Modelado 3D para diseño de "carcasa" a partir de una PCB con Freecad.
    
         Instructor | Lugar | Fecha | Horario
         -----------|-------|-------|--------
@@ -50,7 +50,7 @@ El proyecto se desarrollará en cuatro talleres.
 
         Herramienta a usar: https://www.freecadweb.org
 
-4. Desarrollo del entorno de programación para el PLC32, basado en bloques " Drag-and-Drop "
+4. Desarrollo del entorno de programación para el PLC32, basado en bloques _Drag-and-Drop._
 
         Instructor | Lugar | Fecha | Horario
         -----------|-------|-------|--------
