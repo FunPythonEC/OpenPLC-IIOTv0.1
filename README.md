@@ -1,9 +1,8 @@
 # PLC32
 
-## Construyendo un controlador lógico programable basado en el microcontrolador IoT ESP32 y programado con Micropython. 
-
-## Proyecto Hardware & Software Libre
-Buscamos crear una plataforma de hardware libre para la industria basado es un ESP32 y MicroPython. 
+Construyendo un controlador lógico programable basado en el microcontrolador IoT ESP32 y programado con Micropython. 
+Buscamos incentivar a la comunidad tecnológica al desarrollo colaborativo de nuevas plataformas.
+Buscamos crear una plataforma de hardware y software libre para la industria.
 
 ## Acerca del PROYECTO
 Los PLC (Programmable Logic Controller) se usan en la actualidad en todo tipo de aplicaciones industriales, resolviendo requerimientos en control de procesos y secuencias de la maquinaria, dentro del sector industrial en procesos y control de brazos robóticos industriales.
@@ -16,10 +15,6 @@ Los PLC (Programmable Logic Controller) se usan en la actualidad en todo tipo de
 - Wifi
 - Protocolo Mqtt
 
-## Una iniciativa de Hardware & Software Libre
-
-Buscamos incentivar a la comunidad tecnológica al desarrollo colaborativo de nuevas plataformas. 
-
 ### Objetivos a corto plazo.-
 
 Integrar a estudiantes, profesionales y personas a fines a la tecnologia mediante el desarrollo de proyectos en forma colaborativa, para que puedan intercambiar conocimientos, aprender y desarrollar conjuntamente. 
@@ -28,9 +23,7 @@ Integrar a estudiantes, profesionales y personas a fines a la tecnologia mediant
 
 La comunidad en forma indivudual o asociada, pueda mejorar y modificar estos proyectos para que puedan ser ofertados de manera local con la calidad que la insdustra requiere. 
 
-
-## Construyendo un controlador lógico programable basado en el dispositivo iot ESP32 y Micropython. 
-
+## Talleres
 El proyecto se desarrolla en cuatro talleres. 
 
 1. Taller de diseño electrónico para elaboración del esquematico y PCB del Controlador Lógico Programable PLC32, Instructor José Laica, Lugar ESPOL, Dias 21 y 22 de Nov. del 2019,Hora 13:30 - 15:30
@@ -65,7 +58,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSdKHHjlvKSSVwDHgesz2nPQxdpG3-TAMdvfw-ti
 
 > El Coordinador de la iniciativa es José Luis Laica Cornejo, miembro de la comunidad Funpython y los talleres se desarrollarán en colaboración con la rama estudiantil IEEE-ESPOL y su capítulo técnico IAS, en representación de Doris Reyes y Carolina Herrera. 
 
-REDES SOCIALES 
+### REDES SOCIALES 
 
 [Comunidad Funpython](https://www.instagram.com/funpython/)
 
