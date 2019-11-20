@@ -14,38 +14,55 @@ Los PLC (Programmable Logic Controller) se usan en la actualidad en todo tipo de
 - WiFi
 - Protocolo Mqtt
 
-### Objetivos a corto plazo.-
+### Objetivos a corto plazo
 
 Integrar a estudiantes, profesionales y personas a fines a la tecnologia mediante el desarrollo de proyectos en forma colaborativa, para que puedan intercambiar conocimientos, aprender y desarrollar conjuntamente. 
 
-### Objetivos a largo plazo.-
+### Objetivos a largo plazo
 
 La comunidad en forma indivudual o asociada, pueda mejorar y modificar estos proyectos para que puedan ser ofertados de manera local con la calidad que la insdustra requiere. 
 
 ## Talleres
-El proyecto se desarrolla en cuatro talleres. 
+El proyecto se desarrollará en cuatro talleres. 
 
-1. Taller de diseño electrónico para elaboración del esquematico y PCB del Controlador Lógico Programable PLC32, Instructor José Laica, Lugar ESPOL, Dias 21 y 22 de Nov. del 2019,Hora 13:30 - 15:30
+1. Diseño electrónico para elaboración del esquematico y PCB del Controlador Lógico Programable PLC32 
+   
+Instructor | Lugar | Fecha | Horario
+-----------|-------|-------|--------
+Jose Laica | Laboratorio Robótica Movil - ESPOL | 21 de noviembre de 2019 | 13:30 - 15:30
+ |||22 de noviembre de 2019 | 13:30 - 15:30
 
         Herramienta a usar: https://easyeda.com/es
 
-2. Taller de montaje PCB y programacion del firmware en MicroPython, Instructor José Laica, Lugar ESPOL.
+2. Montaje PCB y programacion del firmware en MicroPython.
 
-        Conocimientos básicos: https://docs.micropython.org/en/latest/esp8266/tutorial/intro.html
+Instructor | Lugar | Fecha | Horario
+-----------|-------|-------|--------
+Jose Laica | ESPOL | por definir | 13:30 - 15:30
 
-3. Taller de modelado 3D para diseño de "carcasa" a partir de una PCB con Freecad, Instructor Christian Tayupanta, Lunes 6 de Enero 2020, 13:30 - 16:30, lugar por definir.
+        Guia de referencia: https://docs.micropython.org/en/latest/esp32/tutorial/intro.html
 
+3. Modelado 3D para diseño de "carcasa" a partir de una PCB con Freecad
+   
+Instructor | Lugar | Fecha | Horario
+-----------|-------|-------|--------
+Christian Tayupanta | ESPOL | 6 de enero 2020 | 13:30 - 16:30
 
-        Herramienta a usar: https://www.freecadweb.org/
+        Herramienta a usar: https://www.freecadweb.org
 
-4. Desarrollo del entorno de programación para el PLC32, basado en bloques " Drag-and-Drop ", Por definir instructor, lugar y hora, Enero 2020
+4. Desarrollo del entorno de programación para el PLC32, basado en bloques " Drag-and-Drop "
+
+Instructor | Lugar | Fecha | Horario
+-----------|-------|-------|--------
+Por definir | ESPOL | enero 2020 | vespertino
+
 
 ## Registro
 
 [Para registrarte dale click aqui](https://docs.google.com/forms/d/e/1FAIpQLSdKHHjlvKSSVwDHgesz2nPQxdpG3-TAMdvfw-ti1jtBzHu5PQ/viewform)
 
 
-## Contactos:
+## Contactos
 
 * Doris Reyes: 0989672037
 
@@ -56,7 +73,7 @@ El proyecto se desarrolla en cuatro talleres.
 
 > El Coordinador de la iniciativa es José Luis Laica Cornejo, miembro de la comunidad Funpython y los talleres se desarrollarán en colaboración con la rama estudiantil IEEE-ESPOL y su capítulo técnico IAS, en representación de Doris Reyes y Carolina Herrera. 
 
-### REDES SOCIALES 
+### Redes Sociales
 
 [Comunidad Funpython](https://www.instagram.com/funpython/)
 
