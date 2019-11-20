@@ -27,34 +27,34 @@ El proyecto se desarrollará en cuatro talleres.
 
 1. Diseño electrónico para elaboración del esquematico y PCB del Controlador Lógico Programable PLC32 
    
-Instructor | Lugar | Fecha | Horario
------------|-------|-------|--------
-Jose Laica | Laboratorio Robótica Movil - ESPOL | 21 de noviembre de 2019 | 13:30 - 15:30
- |||22 de noviembre de 2019 | 13:30 - 15:30
+        Instructor | Lugar | Fecha | Horario
+        -----------|-------|-------|--------
+        Jose Laica | Laboratorio Robótica Movil - ESPOL | 21 de noviembre de 2019 | 13:30 - 15:30
+        |||22 de noviembre de 2019 | 13:30 - 15:30
 
         Herramienta a usar: https://easyeda.com/es
 
 2. Montaje PCB y programacion del firmware en MicroPython.
 
-Instructor | Lugar | Fecha | Horario
------------|-------|-------|--------
-Jose Laica | ESPOL | por definir | 13:30 - 15:30
+        Instructor | Lugar | Fecha | Horario
+        -----------|-------|-------|--------
+        Jose Laica | ESPOL | por definir | 13:30 - 15:30
 
         Guia de referencia: https://docs.micropython.org/en/latest/esp32/tutorial/intro.html
 
 3. Modelado 3D para diseño de "carcasa" a partir de una PCB con Freecad
    
-Instructor | Lugar | Fecha | Horario
------------|-------|-------|--------
-Christian Tayupanta | ESPOL | 6 de enero 2020 | 13:30 - 16:30
+        Instructor | Lugar | Fecha | Horario
+        -----------|-------|-------|--------
+        Christian Tayupanta | ESPOL | 6 de enero 2020 | 13:30 - 16:30
 
         Herramienta a usar: https://www.freecadweb.org
 
 4. Desarrollo del entorno de programación para el PLC32, basado en bloques " Drag-and-Drop "
 
-Instructor | Lugar | Fecha | Horario
------------|-------|-------|--------
-Por definir | ESPOL | enero 2020 | vespertino
+        Instructor | Lugar | Fecha | Horario
+        -----------|-------|-------|--------
+        Por definir | ESPOL | enero 2020 | vespertino
 
 
 ## Registro
