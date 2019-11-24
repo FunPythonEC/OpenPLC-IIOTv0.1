@@ -30,7 +30,7 @@ El proyecto se desarrollará en cuatro talleres.
 Instructor | Lugar | Fecha | Horario
 -----------|-------|-------|--------
 Jose Laica | Laboratorio Robótica Movil - ESPOL | 21 de noviembre de 2019 | 13:30 - 15:30
-|| 22 de noviembre de 2019 | 13:30 - 15:30
+||| 22 de noviembre de 2019 | 13:30 - 15:30
 
         Herramienta a usar: https://easyeda.com/es
 
