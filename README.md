@@ -22,6 +22,12 @@ Integrar a estudiantes, profesionales y personas a fines a la tecnologia mediant
 
 La comunidad en forma indivudual o asociada, pueda mejorar y modificar estos proyectos para que puedan ser ofertados de manera local con la calidad que la insdustra requiere. 
 
+### Metodología
+
+Es un proyecto colaborativo de manera que en general cualquier persona externa podría colaborar incluyendo a los asistentes de las reuniones. Este se ira desenvolviendo a través de PRs ya sea al repo principal o a propios forked repos.
+
+Tentativamente nos reuniremos todos los jueves para avanzar en grupo el desarrollo de este proyecto a pesar que se pueda trabajar individual o remotamente.
+
 ## Talleres
 El proyecto se desarrollará en cuatro talleres. 
 
@@ -30,7 +36,7 @@ El proyecto se desarrollará en cuatro talleres.
 Instructor | Lugar | Fecha | Horario
 -----------|-------|-------|--------
 Jose Laica | Laboratorio Robótica Movil - ESPOL | 21 de noviembre de 2019 | 13:30 - 15:30
-||| 22 de noviembre de 2019 | 13:30 - 15:30
+|-------|------------| ----------- | ---------
 
         Herramienta a usar: https://easyeda.com/es
 
