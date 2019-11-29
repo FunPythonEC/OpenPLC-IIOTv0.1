@@ -9,24 +9,24 @@ Los PLC (Programmable Logic Controller) se usan en la actualidad en todo tipo de
 ## Caracteristicas para el hardware del PLC
 
 Fuente de alimentación | 24 voltios DC 
------------|-------
+
 Entrada digitales|2 hasta de 24 voltios
------------|-------
+
 Salidas digitales	| Salidas de colector abierto NPN (sumidero de corriente) de 200 mA cada una.
------------|-------
-Entradas analógicas| ---
------------|-------
+
+Entradas analógicas| 0
+
 Cominicaciones	| 1 × puerto USB, 1 × puerto RS-485, 1 x Wifi integrado: Acces point & Station,1 x Bluetooth 4.2 2.4 Ghz; BT 2.0 y 4.0 BLE.
------------|-------
+
 Memoria | ROM: 448 KiB; for booting and core functions,SRAM: 520 KiB;For data and instruction,RTC fast SRAM: 8 KiB;For data storage and main CPU during RTC Boot from the deep-sleep mode,RTC slow SRAM: 8 KiB;For co-processor accessing during deep-sleep mode,eFuse: 1 Kibit;are used for the system (MAC address and chip configuration.
 -----------|-------
 Microcontrolador | Procesador dual core Xtensa® LX6 de 32 bits, 240 Mhz,36 GPIO pins,16 x Analog-to-Digital Converter (ADC) de 12 bits de resolución y se pueden programar con límite de entrada a 1V, 2 V y 4V,2 x Digital to Analog converter DAC de 8 bits,Pueden definirse hasta 16 canales de PWM,2 x UART o puertas serie,2 x I2C channels y 4 x SPI channels,Wifi integrado: Acces point & Station,1 x Bluetooth 4.2 2.4 Ghz; BT 2.0 y 4.0 BLE
 
 -----------|-------
-Montaje			Utiliza riel DIN estándar para el montaje
+Montaje | Utiliza riel DIN estándar para el montaje
 -----------|-------
 
-Programación		El código es cargado vía puerto micro USB
+Programación | El código es cargado vía puerto micro USB
 
 
 ### Objetivos a corto plazo
