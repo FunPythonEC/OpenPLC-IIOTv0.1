@@ -6,13 +6,11 @@
 ## Acerca del PROYECTO
 Los PLC (Programmable Logic Controller) se usan en la actualidad en todo tipo de aplicaciones industriales, resolviendo requerimientos en control de procesos y secuencias de la maquinaria, dentro del sector industrial en procesos y control de brazos robóticos industriales.
 
-## Caracteristicas del PLC
+## Caracteristicas para el hardware del PLC
 
-- 2 Entradas de 24 voltios
-- 2 Salidas de 24 voltios
-- Comunicación RS485
-- WiFi
-- Protocolo Mqtt
+Power | 24 voltios DC
+-----------|-------
+Entradas digitales | 2 inputs 
 
 ### Objetivos a corto plazo
 
