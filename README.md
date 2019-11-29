@@ -72,7 +72,7 @@ Por definir | ESPOL | enero 2020 | vespertino
 
 ## Registro
 
-[Para registrarte dale click aqui](https://docs.google.com/forms/d/e/1FAIpQLSdKHHjlvKSSVwDHgesz2nPQxdpG3-TAMdvfw-ti1jtBzHu5PQ/viewform)
+[Para registrartro y actualizaciones dale click aqui](https://docs.google.com/forms/d/e/1FAIpQLSdKHHjlvKSSVwDHgesz2nPQxdpG3-TAMdvfw-ti1jtBzHu5PQ/viewform)
 
 
 ## Contactos
