@@ -44,6 +44,7 @@ Instructor | Lugar | Fecha | Horario
 -----------|-------|-------|--------
 José Laica | Laboratorio Robótica Movil - ESPOL | 21 de noviembre de 2019 | 13:30 - 15:30
 José Laica | Laboratorio Robótica Movil - ESPOL | 5 de diciembre de 2019 | 13:30 - 15:30
+José Laica | Laboratorio Robótica Movil - ESPOL | 12 de diciembre de 2019 | 13:30 - 15:30
 
         Herramienta a usar: https://easyeda.com/es
 
