@@ -48,6 +48,9 @@ José Laica | Laboratorio Robótica Movil - ESPOL | 12 de diciembre de 2019 | 13
 
         Herramienta a usar: https://easyeda.com/es
 
+Esquematicos obtenidos
+https://easyeda.com/jlaica/openplc32-iiot_copy
+
 2.- Montaje PCB y programacion del firmware en MicroPython.
 
 Instructor | Lugar | Fecha | Horario
