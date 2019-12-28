@@ -1,0 +1,1 @@
+Adjunto econtraras el archivo de modelo 3D exportado desde Kicad. A partir de este modelado podremos construir el case de nuestro PLC. 
