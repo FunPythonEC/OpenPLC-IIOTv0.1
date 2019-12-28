@@ -67,6 +67,7 @@ Instructor | Lugar | Fecha | Horario
 Christian Tayupanta | ESPOL | 6 de enero 2020 | 13:30 - 16:30
 
         Herramienta a usar: https://www.freecadweb.org
+        Modelo3D: https://github.com/FunPythonEC/PLC32/tree/master/Modelo3D_PCB
 
 4.- Desarrollo del entorno de programación para el PLC32, basado en bloques _Drag-and-Drop._
 
