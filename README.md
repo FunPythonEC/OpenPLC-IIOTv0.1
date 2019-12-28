@@ -1,7 +1,8 @@
 # PLC32
 
-> Construyendo un controlador lógico programable basado en el microcontrolador IoT ESP32 y programado con Micropython. 
+ 
 > Buscamos incentivar a la comunidad tecnológica al desarrollo colaborativo de nuevas plataformas para la industria bajo la filosofia de hardware y software libre.
+> Construyendo un controlador lógico programable basado en el microcontrolador IoT ESP32 y programado con Micropython.
 
 ## Acerca del PROYECTO
 Los PLC (Programmable Logic Controller) se usan en la actualidad en todo tipo de aplicaciones industriales, resolviendo requerimientos en control de procesos y secuencias de la maquinaria, dentro del sector industrial en procesos y control de brazos robóticos industriales.
