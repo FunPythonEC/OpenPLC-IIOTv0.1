@@ -1,0 +1,1 @@
+Aqui encontraras las vistas 3D obtenidas de la tarjeta del PLC4.0 v0.1 con las herramientas https://www.kicad-pcb.org/ y https://easyeda.com/
