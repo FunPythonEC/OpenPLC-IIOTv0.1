@@ -80,9 +80,9 @@ Por definir | ESPOL | enero 2020 | vespertino
 
 [Para registrartro y actualizaciones dale click aqui](https://docs.google.com/forms/d/e/1FAIpQLSdKHHjlvKSSVwDHgesz2nPQxdpG3-TAMdvfw-ti1jtBzHu5PQ/viewform)
 
-## Hilo del desarrollo slack
+## Hilo del desarrollo en slack
 
-[Canal plc32_hardware ](bit.ly/slack_fpy)
+[Canal: plc32_hardware ](bit.ly/slack_fpy)
 
 ## Contactos
 
