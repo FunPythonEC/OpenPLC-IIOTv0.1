@@ -47,7 +47,7 @@ José Laica | Laboratorio Robótica Movil - ESPOL | 21 de noviembre de 2019 | 13
 José Laica | Laboratorio Robótica Movil - ESPOL | 5 de diciembre de 2019 | 13:30 - 15:30
 José Laica | Laboratorio Robótica Movil - ESPOL | 12 de diciembre de 2019 | 13:30 - 15:30
 
-        Herramienta a usar: https://easyeda.com/es
+Herramienta a usar: https://easyeda.com/es
 
 Esquematicos obtenidos
 https://easyeda.com/jlaica/openplc32-iiot_copy
@@ -58,7 +58,7 @@ Instructor | Lugar | Fecha | Horario
 -----------|-------|-------|--------
 José Laica | ESPOL | por definir | 13:30 - 15:30
 
-        Guia de referencia: https://docs.micropython.org/en/latest/esp32/tutorial/intro.html
+Guia de referencia: https://docs.micropython.org/en/latest/esp32/tutorial/intro.html
 
 3.- Modelado 3D para diseño de "carcasa" a partir de una PCB con Freecad.
    
@@ -66,8 +66,8 @@ Instructor | Lugar | Fecha | Horario
 -----------|-------|-------|--------
 Christian Tayupanta | ESPOL | 6 de enero 2020 | 13:30 - 16:30
 
-        Herramienta a usar: https://www.freecadweb.org
-        Modelo3D: https://github.com/FunPythonEC/PLC32/tree/master/Modelo3D_PCB
+Herramienta a usar: https://www.freecadweb.org
+Modelo3D-PCB: https://github.com/FunPythonEC/PLC32/tree/master/Modelo3D_PCB
 
 4.- Desarrollo del entorno de programación para el PLC32, basado en bloques _Drag-and-Drop._
 
