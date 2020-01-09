@@ -1,6 +1,6 @@
 # PLC32
 
- 
+
 > Buscamos incentivar a la comunidad tecnológica al desarrollo colaborativo de nuevas plataformas para la industria bajo la filosofia de hardware y software libre.
 > Construyendo un controlador lógico programable basado en el microcontrolador IoT ESP32 y programado con Micropython.
 
@@ -40,12 +40,14 @@ Tentativamente nos reuniremos todos los jueves para avanzar en grupo el desarrol
 El proyecto se desarrollará en cuatro talleres. 
 
 1.- Diseño electrónico para elaboración del esquematico y PCB del Controlador Lógico Programable PLC32. 
-   
+
 Instructor | Lugar | Fecha | Horario
 -----------|-------|-------|--------
 José Laica | Laboratorio Robótica Movil - ESPOL | 21 de noviembre de 2019 | 13:30 - 15:30
 José Laica | Laboratorio Robótica Movil - ESPOL | 5 de diciembre de 2019 | 13:30 - 15:30
 José Laica | Laboratorio Robótica Movil - ESPOL | 12 de diciembre de 2019 | 13:30 - 15:30
+José Laica | Laboratorio Robótica Movil - ESPOL | 9 de Enero 2020 | 13:30 - 15:30 
+José Laica | Laboratorio Robótica Movil - ESPOL | 16 de Enero 2020 | 13:30 - 15:30 
 
 Herramienta a usar: https://easyeda.com/es
 
@@ -61,7 +63,7 @@ José Laica | ESPOL | por definir | 13:30 - 15:30
 Guia de referencia: https://docs.micropython.org/en/latest/esp32/tutorial/intro.html
 
 3.- Modelado 3D para diseño de "carcasa" a partir de una PCB con Freecad.
-   
+
 Instructor | Lugar | Fecha | Horario
 -----------|-------|-------|--------
 Christian Tayupanta | ESPOL | 6 de enero 2020 | 13:30 - 16:30
@@ -80,7 +82,7 @@ Por definir | ESPOL | enero 2020 | vespertino
 
 ## Registro
 
-[Para registrartro y actualizaciones dale click aqui](https://docs.google.com/forms/d/e/1FAIpQLSdKHHjlvKSSVwDHgesz2nPQxdpG3-TAMdvfw-ti1jtBzHu5PQ/viewform)
+[Para registro y actualizaciones dale click aqui](https://docs.google.com/forms/d/e/1FAIpQLSdKHHjlvKSSVwDHgesz2nPQxdpG3-TAMdvfw-ti1jtBzHu5PQ/viewform)
 
 ## Hilo del desarrollo en slack
 
