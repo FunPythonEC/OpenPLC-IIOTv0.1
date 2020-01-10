@@ -41,13 +41,13 @@ El proyecto se desarrollará en cuatro talleres.
 
 1.- Diseño electrónico para elaboración del esquematico y PCB del Controlador Lógico Programable PLC32. 
 
-Instructor | Lugar | Fecha | Horario
------------|-------|-------|--------
-José Laica | Laboratorio Robótica Movil - ESPOL | 21 de noviembre de 2019 | 13:30 - 15:30
-José Laica | Laboratorio Robótica Movil - ESPOL | 5 de diciembre de 2019 | 13:30 - 15:30
-José Laica | Laboratorio Robótica Movil - ESPOL | 12 de diciembre de 2019 | 13:30 - 15:30
-José Laica | Laboratorio Robótica Movil - ESPOL | 9 de Enero 2020 | 13:30 - 15:30 
-José Laica | Laboratorio Robótica Movil - ESPOL | 16 de Enero 2020 | 13:30 - 15:30 
+Tema             |Instructor | Lugar | Fecha | Horario
+-----------------|-----------|-------|-------|--------
+Introducción a estapas del PLC |José Laica | Laboratorio Robótica Movil - ESPOL | 21 de noviembre de 2019 | 13:30 - 15:30
+Herramientas ECAD open source |José Laica | Laboratorio Robótica Movil - ESPOL | 5 de diciembre de 2019 | 13:30 - 15:30
+Diseño esquematico de las etapas del PLC |José Laica | Laboratorio Robótica Movil - ESPOL | 12 de diciembre de 2019 | 13:30 - 15:30
+Herramientas ECAD open source para el diseño del PCB |José Laica | Laboratorio Robótica Movil - ESPOL | 9 de Enero 2020 | 13:30 - 15:30 
+Desarrollo del print circuit borad |José Laica | Laboratorio Robótica Movil - ESPOL | 16 de Enero 2020 | 13:30 - 15:30 
 
 Herramienta a usar: https://easyeda.com/es
 
