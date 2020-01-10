@@ -37,9 +37,7 @@ Es un proyecto colaborativo de manera que en general cualquier persona externa p
 Tentativamente nos reuniremos todos los jueves para avanzar en grupo el desarrollo de este proyecto a pesar que se pueda trabajar individual o remotamente.
 
 ## Talleres
-El proyecto se desarrollará en cuatro talleres. 
-
-1.- Diseño electrónico para elaboración del esquematico y PCB del Controlador Lógico Programable PLC32. 
+El proyecto se desarrollará en diversos talleres. 
 
 Tema             |Instructor | Lugar | Fecha | Horario
 -----------------|-----------|-------|-------|--------
