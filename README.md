@@ -52,7 +52,7 @@ Herramienta a usar: https://easyeda.com/es
 Esquematicos obtenidos
 https://easyeda.com/jlaica/openplc32-iiot_copy
 
-2.- Montaje PCB y programacion del firmware en MicroPython.
+Siguiente Taller: Montaje PCB y programacion del firmware en MicroPython.
 
 Instructor | Lugar | Fecha | Horario
 -----------|-------|-------|--------
