@@ -1,5 +1,6 @@
-# PLC32
+# PLC32 IIoT (Industrial Internet of Things)
 
+![Tarjeta diseñada por Steven Silva](media/plc32_steven.jpeg)
 
 > Buscamos incentivar a la comunidad tecnológica al desarrollo colaborativo de nuevas plataformas para la industria bajo la filosofia de hardware y software libre.
 > Construyendo un controlador lógico programable basado en el microcontrolador IoT ESP32 y programado con Micropython.
@@ -39,9 +40,11 @@ Tentativamente nos reuniremos todos los jueves para avanzar en grupo el desarrol
 ## Talleres
 El proyecto se desarrollará en diversos talleres. 
 
+1.- Diseño de la tarjeta PCB.
+
 Tema             |Instructor | Lugar | Fecha | Horario
 -----------------|-----------|-------|-------|--------
-Introducción a estapas del PLC |José Laica | Laboratorio Robótica Movil - ESPOL | 21 de noviembre de 2019 | 13:30 - 15:30
+Introducción a etapas del PLC |José Laica | Laboratorio Robótica Movil - ESPOL | 21 de noviembre de 2019 | 13:30 - 15:30
 Herramientas ECAD open source |José Laica | Laboratorio Robótica Movil - ESPOL | 5 de diciembre de 2019 | 13:30 - 15:30
 Diseño esquematico de las etapas del PLC |José Laica | Laboratorio Robótica Movil - ESPOL | 12 de diciembre de 2019 | 13:30 - 15:30
 Herramientas ECAD open source para el diseño del PCB |José Laica | Laboratorio Robótica Movil - ESPOL | 9 de Enero 2020 | 13:30 - 15:30 
@@ -52,15 +55,9 @@ Herramienta a usar: https://easyeda.com/es
 Esquematicos obtenidos
 https://easyeda.com/jlaica/openplc32-iiot_copy
 
-Siguiente Taller: Montaje PCB y programacion del firmware en MicroPython.
+![Tarjeta diseñada por Jose Laica](PCB_Jose_Laica/Vista3D/PLC4v01_Easyeda.png)
 
-Instructor | Lugar | Fecha | Horario
------------|-------|-------|--------
-José Laica | ESPOL | por definir | 13:30 - 15:30
-
-Guia de referencia: https://docs.micropython.org/en/latest/esp32/tutorial/intro.html
-
-3.- Modelado 3D para diseño de "carcasa" a partir de una PCB con Freecad.
+2.- Modelado 3D para diseño de "carcasa" a partir de una PCB con Freecad.
 
 Instructor | Lugar | Fecha | Horario
 -----------|-------|-------|--------
@@ -71,38 +68,47 @@ Herramienta a usar: https://www.freecadweb.org
 Modelado PCB obtenido: 
 https://github.com/FunPythonEC/PLC32/tree/master/Modelo3D_PCB
 
+3.- Ensamblado de la PCB y programación del firmware MicroPython.
+
+Instructor | Lugar | Fecha | Horario
+-----------|-------|-------|--------
+FunPython | Laboratorio de Mecatronica - ESPOL | 17 de febrero de 2020 | 10:00 - 15:00
+
+[Link de registro para asistir](http://bit.ly/plc32fpy)
+
+![Invitacion](media/flyer_PLC32_PCB.jpeg)
+
 4.- Desarrollo del entorno de programación para el PLC32, basado en bloques _Drag-and-Drop._
 
 Instructor | Lugar | Fecha | Horario
 -----------|-------|-------|--------
-Por definir | ESPOL | enero 2020 | vespertino
+Por definir | Por definir | febrero 2020 | vespertino
+
 
 
 ## Registro
 
 [Para registro y actualizaciones dale click aqui](https://docs.google.com/forms/d/e/1FAIpQLSdKHHjlvKSSVwDHgesz2nPQxdpG3-TAMdvfw-ti1jtBzHu5PQ/viewform)
 
-## Hilo del desarrollo en slack
+## Canal del proyecto en slack
 
 [Canal: plc32_hardware ](https://app.slack.com/client/TRBPLJYKT/CRMJ3G1T6)
 
-## Contactos
+## Contacto
 
-* Doris Reyes: 0989672037
+Nombre | Celular
+------- | -------
+José Luis Laica | +593995474658
+Steven Silva | +593985202945
+Jhon Merchan | +5936179192
 
-* Carolina Herrera: 0939318425
+### Correo electronico 
 
-* José Luis Laica: 0995474658
-
-
-> El Coordinador de la iniciativa es José Luis Laica Cornejo, miembro de la comunidad Funpython y los talleres se desarrollarán en colaboración con la rama estudiantil IEEE-ESPOL y su capítulo técnico IAS, en representación de Doris Reyes y Carolina Herrera. 
+funpython.ec@gmail.com 
 
 ### Redes Sociales
 
-[Comunidad Funpython](https://www.instagram.com/funpython/)
+[Instagram](https://www.instagram.com/funpython/)
+[Twitter](https://twitter.com/funpython_ec)
+[Linkedin](https://www.linkedin.com/company/funpython)
 
-[IEEE - ESPOL](https://www.instagram.com/ieee.espol/)
-
-[Capitulo Técnico IAS - ESPOL](https://www.instagram.com/ieee.espol.ias/)
-
-**Guayaquil - Ecuador** 
