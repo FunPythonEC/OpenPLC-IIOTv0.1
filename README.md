@@ -94,13 +94,9 @@ Por definir | Por definir | febrero 2020 | vespertino
 
 [Canal: plc32_hardware ](https://app.slack.com/client/TRBPLJYKT/CRMJ3G1T6)
 
-## Contacto
 
-Nombre | Celular
-------- | -------
-José Luis Laica | +593995474658
-Steven Silva | +593985202945
-Jhon Merchan | +5936179192
+## Contacto
+Para charlas o talleres contactarse con 
 
 ### Correo electronico 
 
