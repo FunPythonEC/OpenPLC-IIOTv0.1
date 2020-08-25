@@ -1,4 +1,4 @@
-# PLC-IIoT-v0.1 (Industrial Internet of Things)
+# OpenPLC-IIoTv0.1 (Industrial Internet of Things)
 
 ![Tarjeta diseñada por Steven Silva](media/plc32_steven.jpeg)
 
