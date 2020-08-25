@@ -1,6 +1,6 @@
 # OpenPLC-IIoTv0.1 (Industrial Internet of Things)
 
-![Tarjeta diseñada por Steven Silva](media/plc32_steven.jpeg)
+![3D Generado por Kicad](PCB_Jose_Laica/Vista3D/PLC32V01_kicad.png)
 
 > Buscamos incentivar a la comunidad tecnológica al desarrollo colaborativo de nuevas plataformas para la industria bajo la filosofia de hardware y software libre.
 > Construyendo un controlador lógico programable basado en el microcontrolador ESP32 y programado con Micropython.
