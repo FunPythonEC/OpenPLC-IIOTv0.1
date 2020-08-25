@@ -55,7 +55,7 @@ Herramienta a usar: https://easyeda.com/es
 Esquematicos obtenidos
 https://easyeda.com/jlaica/openplc32-iiot_copy
 
-![Tarjeta diseñada por Jose Laica](PCB_Jose_Laica/Vista3D/PLC4v01_Easyeda.png)
+![Imagen generada en easy eda](/PCB_Jose_Laica/esquematicos/Salidas.png)
 
 2.- Modelado 3D para diseño de "carcasa" a partir de una PCB con Freecad.
 
