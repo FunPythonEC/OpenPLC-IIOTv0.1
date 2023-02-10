@@ -2,107 +2,110 @@
 
 ![3D Generado por Kicad](PCB_Jose_Laica/Vista3D/PLC32V01_kicad.png)
 
-> Buscamos incentivar a la comunidad tecnológica al desarrollo colaborativo de nuevas plataformas para la industria bajo la filosofia de hardware y software libre.
-> Construyendo un controlador lógico programable basado en el microcontrolador ESP32 y programado con Micropython.
+> We seek to encourage the technological community to collaboratively develop new platforms for the industry under the philosophy of free hardware and software. Building a programmable logic controller based on the ESP32 microcontroller and programmed with Micropython.
 
-## Acerca del PROYECTO
-Los PLC (Programmable Logic Controller) se usan en la actualidad en todo tipo de aplicaciones industriales, resolviendo requerimientos en control de procesos y secuencias de la maquinaria, dentro del sector industrial en procesos y control de brazos robóticos industriales.
+## About the PROJECT
+PLCs (Programmable Logic Controller) are currently used in all types of industrial applications, solving requirements in process control and machinery sequences, within the industrial sector in processes and control of industrial robotic arms.
 
-## Características para el hardware del PLC
 
-Hardware     | Especificación
+### Short-term goals for our project
+
+Integrate students, professionals, and people for purposes of technology through the development of projects in a collaborative way, so that they can exchange knowledge, learn, and develop together.
+
+### Long-term goals for our project
+
+The community, individually or as an association, can improve and modify these projects so that they can be offered locally with the quality that the industry requires.
+
+### Methodology
+
+This is a collaborative project so any external person can collaborate, including the attendees of the meetings. This will develop through PRs to either the main repo or their own forked repos.
+
+We will tentatively meet every Thurday to advance the development of this project as a group.
+
+
+
+
+## Features for PLC hardware
+
+Hardware     | Specification
 :---------------------------| :-------
-Fuente de alimentación     | 24 voltios DC 
-Entrada digitales|2; 24 voltios
-Salidas digitales	| Salidas de colector abierto NPN (sumidero de corriente) de 200 mA cada una.
-Entradas analógicas| 0
-Cominicaciones	| 1 × puerto USB, 1 × puerto RS-485, 1 x Wifi integrado: Acces point & Station,1 x Bluetooth 4.2 2.4 Ghz; BT 2.0 y 4.0 BLE. 
-Memoria | ROM: 448 KiB; for booting and core functions,SRAM: 520 KiB;For data and instruction,RTC fast SRAM: 8 KiB;For data storage and main CPU during RTC Boot from the deep-sleep mode,RTC slow SRAM: 8 KiB;For co-processor accessing during deep-sleep mode,eFuse: 1 Kibit;are used for the system (MAC address and chip configuration).
-Microcontrolador | Procesador dual core Xtensa® LX6 de 32 bits, 240 Mhz,36 GPIO pins,16 x Analog-to-Digital Converter (ADC) de 12 bits de resolución y se pueden programar con límite de entrada a 1V, 2 V y 4V,2 x Digital to Analog converter DAC de 8 bits,Pueden definirse hasta 16 canales de PWM,2 x UART o puertas serie,2 x I2C channels y 4 x SPI channels,Wifi integrado: Acces point & Station,1 x Bluetooth 4.2 2.4 Ghz; BT 2.0 y 4.0 BLE
-Montaje | Utiliza riel DIN estándar para el montaje
-Programación | El código es cargado vía puerto micro USB
+Power Supply     | 24 volts DC 
+Digital Input |2, 24 volts
+Digital Outputs	| NPN open collector (current sink) outputs of 200mA each.
+Analog Inputs | 0
+Communications	| 1 × USB port, 1 × RS-485 port, 1 x Integrated Wifi : Access point & Station, 1 x Bluetooth 4.2 2.4 Ghz; BT 2.0 and 4.0 BLE. 
+Memory | ROM: 448 KiB; for booting and core functions, SRAM: 520 KiB; For data and instruction, RTC fast SRAM: 8 KiB; For data storage and main CPU during RTC Boot from the deep-sleep mode, RTC slow SRAM: 8 KiB; For co-processor accessing during deep-sleep mode, eFuse: 1 Kibit; are used for the system (MAC address and chip configuration).
+Microcontroller | Dual Core Xtensa® LX6 32-bit Processor, 240 Mhz, 36 GPIO pins, 16 x Analog-to-Digital Converter (ADC) with 12 bit resolution and can be programmed with input limit at 1V, 2V, and 4V, 2 x Digital to Analog converter 8-bit DAC, Up to 16 PWM channels can be defined, 2 x UART or serial ports, 2 x I2C channels and 4 x SPI channels, Integrated Wifi: Access point & Station, 1 x Bluetooth 4.2 2.4 Ghz; BT 2.0 and 4.0 BLE
+Mounting | Uses standard DIN rail for mounting
+Programming | Code is uploaded via a micro-USB port
 
 
-### Objetivos a corto plazo
+## Workshops
+We will develop the project through various workshops 
 
-Integrar a estudiantes, profesionales y personas a fines a la tecnologia mediante el desarrollo de proyectos en forma colaborativa, para que puedan intercambiar conocimientos, aprender y desarrollar conjuntamente. 
+1.- Design of the PCB card
 
-### Objetivos a largo plazo
-
-La comunidad en forma indivudual o asociada, pueda mejorar y modificar estos proyectos para que puedan ser ofertados de manera local con la calidad que la insdustra requiere. 
-
-### Metodología
-
-Es un proyecto colaborativo de manera que en general cualquier persona externa podría colaborar incluyendo a los asistentes de las reuniones. Este se ira desenvolviendo a través de PRs ya sea al repo principal o a propios forked repos.
-
-Tentativamente nos reuniremos todos los jueves para avanzar en grupo el desarrollo de este proyecto a pesar que se pueda trabajar individual o remotamente.
-
-## Talleres
-El proyecto se desarrollará en diversos talleres. 
-
-1.- Diseño de la tarjeta PCB.
-
-Tema             |Instructor | Lugar | Fecha | Horario
+Issue             |Instructor | Place | Date | Schedule
 -----------------|-----------|-------|-------|--------
-Introducción a etapas del PLC |José Laica | Laboratorio Robótica Movil - ESPOL | 21 de noviembre de 2019 | 13:30 - 15:30
-Herramientas ECAD open source |José Laica | Laboratorio Robótica Movil - ESPOL | 5 de diciembre de 2019 | 13:30 - 15:30
-Diseño esquematico de las etapas del PLC |José Laica | Laboratorio Robótica Movil - ESPOL | 12 de diciembre de 2019 | 13:30 - 15:30
-Herramientas ECAD open source para el diseño del PCB |José Laica | Laboratorio Robótica Movil - ESPOL | 9 de Enero 2020 | 13:30 - 15:30 
-Desarrollo del print circuit borad |José Laica | Laboratorio Robótica Movil - ESPOL | 16 de Enero 2020 | 13:30 - 15:30 
+Introduction to PLC stages |José Laica | Mobile Robotics Laboratory - ESPOL | November 21, 2019 | 13:30 - 15:30
+Open Source ECAD tools |José Laica | Mobile Robotics Laboratory - ESPOL | December 5, 2019 | 13:30 - 15:30
+Schematic design of the PLC stages |José Laica | Mobile Robotics Laboratory - ESPOL | December 12, 2019 | 13:30 - 15:30
+Open source ECAD tools for PCB design |José Laica | Mobile Robotics Laboratory - ESPOL | January 9, 2020 | 13:30 - 15:30 
+Development of the print circuit board |José Laica | Mobile Robotics Laboratory - ESPOL | January 16, 2020 | 13:30 - 15:30 
 
-Herramienta a usar: https://easyeda.com/es
+- Tools to use: https://easyeda.com/es
 
-Esquematicos obtenidos
+- Schematics obtained:
 https://easyeda.com/jlaica/openplc32-iiot_copy
 
 ![Imagen generada en easy eda](/PCB_Jose_Laica/esquematicos/Salidas.png)
 
-2.- Modelado 3D para diseño de "carcasa" a partir de una PCB con Freecad.
+2.- 3D modeling for the casing design from a PCB with FreeCAD
 
-Instructor | Lugar | Fecha | Horario
+Instructor | Place | Date | Schedule
 -----------|-------|-------|--------
-Christian Tayupanta | ESPOL | 6 de enero 2020 | 13:30 - 16:30
+Christian Tayupanta | ESPOL | January 6, 2020 | 13:30 - 16:30
 
-Herramienta a usar: https://www.freecadweb.org
+- FreeCAD link:: https://www.freecadweb.org
 
-Modelado PCB obtenido: 
+- PCB model used: 
 https://github.com/FunPythonEC/PLC32/tree/master/Modelo3D_PCB
 
-3.- Ensamblado de la PCB y programación del firmware MicroPython.
+3.- Assembling the PCB and programming the MicroPython firmware
 
-Instructor | Lugar | Fecha | Horario
+Instructor | Place | Date | Schedule
 -----------|-------|-------|--------
-FunPython | Laboratorio de Mecatronica - ESPOL | 17 de febrero de 2020 | 10:00 - 15:00
+FunPython | Mechatronics Laboratory - ESPOL | February 17, 2020 | 10:00 - 15:00
 
-[Link de registro para asistir](http://bit.ly/plc32fpy)
+[Registration Link](http://bit.ly/plc32fpy)
 
 ![Invitacion](media/flyer_PLC32_PCB.jpeg)
 
-4.- Desarrollo del entorno de programación para el PLC32, basado en bloques _Drag-and-Drop._
+4.- Development of the programming environment for the PLC32, based on Drag-and-Drop blocks.
 
-Instructor | Lugar | Fecha | Horario
+Instructor | Place | Date | Schedule
 -----------|-------|-------|--------
-Por definir | Por definir | febrero 2020 | vespertino
+TBD | TBD | February 2020 | Evening
 
 
 
-## Registro
+## Registration
 
-[Para registro y actualizaciones dale click aqui](https://docs.google.com/forms/d/e/1FAIpQLSdKHHjlvKSSVwDHgesz2nPQxdpG3-TAMdvfw-ti1jtBzHu5PQ/viewform)
+[For registration updates](https://docs.google.com/forms/d/e/1FAIpQLSdKHHjlvKSSVwDHgesz2nPQxdpG3-TAMdvfw-ti1jtBzHu5PQ/viewform)
 
-## Canal del proyecto en slack
+## Slack
 
-[Canal: plc32_hardware ](https://app.slack.com/client/TRBPLJYKT/CRMJ3G1T6)
+[Channel: plc32_hardware ](https://app.slack.com/client/TRBPLJYKT/CRMJ3G1T6)
 
 
-## Contacto
-Para charlas o talleres contactarse con 
+## Contact
+For talks or workshops contact:
 
-### Correo electronico 
+### Email
 
 funpython.ec@gmail.com 
 
-### Redes Sociales
+### Socials
 
 [Instagram](https://www.instagram.com/funpython/)
 [Twitter](https://twitter.com/funpython_ec)
