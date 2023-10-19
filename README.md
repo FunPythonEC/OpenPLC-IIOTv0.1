@@ -86,25 +86,18 @@ Por definir | Por definir | febrero 2020 | vespertino
 
 
 
-## Registro
+## Creadores
 
-[Para registro y actualizaciones dale click aqui](https://docs.google.com/forms/d/e/1FAIpQLSdKHHjlvKSSVwDHgesz2nPQxdpG3-TAMdvfw-ti1jtBzHu5PQ/viewform)
+- [José Luis Laica](https://github.com/jlaica/jose.laica/blob/main/README.md)
+- [Steven Silva](https://github.com/sasilva1998)
 
-## Canal del proyecto en slack
-
-[Canal: plc32_hardware ](https://app.slack.com/client/TRBPLJYKT/CRMJ3G1T6)
-
-
-## Contacto
-Para charlas o talleres contactarse con 
-
-### Correo electronico 
+### Contactese con la comunidad:
 
 funpython.ec@gmail.com 
 
-### Redes Sociales
+### Redes Sociales de la comunidad FunPython
 
 [Instagram](https://www.instagram.com/funpython/)
 [Twitter](https://twitter.com/funpython_ec)
-[Linkedin](https://www.linkedin.com/company/funpython)
+
 
